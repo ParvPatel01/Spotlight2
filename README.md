@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/j48a217e)
-
-
 # SpotLight
 
 ## Human Rights Violation Reporting Platform
@@ -61,9 +58,6 @@ Issue Form
 ## Authors
 
 - [Parv Patel (002845159)](https://github.com/ParvPatel01/) - patel.parv1@northeastern.edu
-- [Meet Karnik (002795334)](https://github.com/karnikmeet/) - karnik.me@northeastern.edu
-- [Sanath LNU (002672508)](https://github.com/SanathLNU/) - lnu.sanat@northeastern.edu
-- [Chiragkumar Maisuria (002813605)](https://github.com/ChiragMaisuria01/) - maisuria.c@northeastern.edu
 
 ## Acknowledgments
 - [MongoDB](https://www.mongodb.com/)
